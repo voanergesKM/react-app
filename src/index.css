@@ -13,3 +13,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+f {
+  background-color: tomato;
+  width: 320px;
+
+  width: 32px;
+  height: 32px;
+  background-color: teal;
+}
